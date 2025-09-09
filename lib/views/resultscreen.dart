@@ -1,4 +1,3 @@
-import 'package:bmicalaculator/globals.dart';
 import 'package:bmicalaculator/widgets/resultwidget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

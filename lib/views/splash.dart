@@ -1,4 +1,3 @@
-
 import 'package:bmicalaculator/views/home.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';

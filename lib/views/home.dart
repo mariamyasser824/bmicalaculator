@@ -1,16 +1,13 @@
-import 'package:bmicalaculator/globals.dart';
 import 'package:bmicalaculator/widgets/agewidget.dart';
 import 'package:bmicalaculator/widgets/genderwidget.dart';
 import 'package:bmicalaculator/widgets/heightwidget.dart';
-
 import 'package:bmicalaculator/widgets/weightwidget.dart';
 import'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 class Home extends StatelessWidget {
    const Home({super.key});
 
-  //double height = 150;
-//double weight = 60;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
